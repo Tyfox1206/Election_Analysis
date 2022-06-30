@@ -10,8 +10,8 @@ A Colorado board of Elections employee has fiven you the following task to compl
 5. Determine the winner of the election based on popular vote.
 
 ## Resources
--Data Source: Election_results.csv
--Software: Python 3.7.6
+- Data Source: Election_results.csv
+- Software: Python 3.7.6
 
 ## Summary
 The analysis of the election show that:
