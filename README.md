@@ -30,7 +30,7 @@ The analysis of the election show that:
 ## Challenge OverView
 For this challenge we were to go through the same data used in the election data for the above candidates and find out which county in the region had the highest turn out and which how many votes were cast in each county. To do this I followed very similar steps used to determine the analysis for each candidate. 
 ## Challenge Summary
-analysis of each county so that:
+Analysis of each county shows that:
 - Counties were:
   - Jefferson
   - Denver
